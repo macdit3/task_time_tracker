@@ -1,0 +1,1 @@
+### The Task Time Tracker program will continuously prompt the user to input task information and time expenditure for each task. The program will maintain a cumulative record of the total time allocated across all tasks and identify which task required the greatest time investment for completion.
